@@ -1,10 +1,10 @@
 ### French
 <h1 align="center">Bonjour 👋, je suis Quentin</h1>
-<h3 align="center">Un étudiant d'informatique passionné de Martinique</h3>
+<h3 align="center">Un étudiant d'informatique  de Martinique</h3>
 
 ### English
 <h1 align="center">Hi 👋, i'm Quentin</h1>
-<h3 align="center">A passionate computer science student from Martinique </h3>
+<h3 align="center">A computer science student from Martinique </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phnxtrill&label=Profile%20views&color=0e75b6&style=flat" alt="phnxtrill" /> </p>
 
