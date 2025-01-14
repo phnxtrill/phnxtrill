@@ -1,11 +1,14 @@
 ### French
 <h1 align="center">Bonjour 👋, je suis Quentin</h1>
-<h3 align="center">Un étudiant d'informatique  de Martinique</h3>
+<h3 align="center">Je suis un étudiant en informatique de Martinique, aspirant développeur fullstack</h3>
+<h4 align="center">Actuellement en train d'apprendre le JavaScript</h4>
 
 ### English
-<h1 align="center">Hi 👋, i'm Quentin</h1>
-<h3 align="center">A computer science student from Martinique </h3>
+<h1 align="center">Hi 👋, I'm Quentin</h1>
+<h3 align="center">I am a computer science student from Martinique, aspiring to become a fullstack developer</h3>
+<h4 align="center">Currently learning JavaScript</h4>
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phnxtrill&label=Profile%20views&color=0e75b6&style=flat" alt="phnxtrill" /> </p>
 
 <h3 align="left">Me contacter | Connect with me :</h3>
